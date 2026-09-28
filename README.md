@@ -1,4 +1,4 @@
-# Game Theory Simulation — Duopoly
+# Game Theory Simulation - Duopoly
 
 A duopoly market simulation in Python, where a human player competes against an AI opponent that uses best-response strategies. Built as a course project for Game Theory at Aalto University (Dec 2025).
 
