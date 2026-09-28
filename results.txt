@@ -1,0 +1,17 @@
+Game Theory Simulation - Results
+========================================
+
+Total rounds: 3
+
+Round   Your Qty    AI Qty      Price       Your Profit
+-------------------------------------------------------
+1       50          33          17          850
+2       23          25          52          1196
+3       33          38          29          957
+
+========================================
+Your total profit:  3003.0
+AI total profit:    2963.0
+Your avg quantity:  35.33
+Nash eq. quantity:  33.33
+Nash eq. price:     33.33
